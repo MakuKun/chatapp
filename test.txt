@@ -1,0 +1,32 @@
+// Начальные данные
+
+{
+  "userId": 1,
+  "id": 1,
+  "title": "Сходить в магаз",
+  "completed": false
+},
+{
+  "userId": 1,
+  "id": 2,
+  "title": "Приготовить покушать",
+  "completed": false
+},
+{
+  "userId": 1,
+  "id": 3,
+  "title": "Сделать ПХД",
+  "completed": false
+},
+{
+  "userId": 1,
+  "id": 4,
+  "title": "Посмотреть новый сериал от Netflix",
+  "completed": true
+},
+{
+  "userId": 1,
+  "id": 5,
+  "title": "Подготовиться к рабочей неделе",
+  "completed": false
+}
